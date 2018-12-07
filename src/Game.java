@@ -6,10 +6,10 @@ import java.util.Random;
 
 /**
  * @author John Berkley, Bryan Lee, Joshua Chen, Saul Galaviz
- * CPP Class: CS 3560
+ * CPP Class: CS 3560 
  * Date Created: Nov 05, 2018
  */
-class Game extends JFrame {
+class Game extends JFrame{
 
     private static final int SQUARE_SIZE = 30; //size of each square
     private JButton[][] buttons;  // Grid of buttons
